@@ -2,7 +2,7 @@
   "Version": "1.0.0",
   "Channel": "STABLE",
   "DownloadUrl": "https://github.com/alifakih-bit/BitTuneAI-Releases/releases/download/v1.0.0/BitTuneAI-Setup-1.0.0-x64.exe",
-  "Sha256": "E4478DE15035875F3469C7414B1C1D74AFA75716DA0106214FA02A211C1A1F28",
+  "Sha256": "BAC5A0E9761B6C500635D5036B8925F3B3A33F823AD07D1C1D864E6514ADACD1",
   "ReleaseNotes": "BitTuneAI 1.0.0 initial stable release.",
   "Mandatory": false
 }
